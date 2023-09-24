@@ -1,0 +1,7 @@
+Tomat
+
+Musim = Spring - Summer
+Sinar = High
+Soil Moisture = Wet (70 - 80%)
+Suhu = 12C-30C
+pH = 6.2-6.8
